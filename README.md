@@ -1,0 +1,1 @@
+Currently this script just checks if a server is up every 5 minutes. I would like this script to send api calls to pterodactyl. I was thinking in the exception part to have it check if the server you are checking is online then kill and start it again
