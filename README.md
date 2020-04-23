@@ -1,1 +1,3 @@
-Currently this script just checks if a server is up every 5 minutes. I would like this script to send api calls to pterodactyl. I was thinking in the exception part to have it check if the server you are checking is online then kill and start it again
+This is a very basic python script that checks the status of a source dedicated server and restarts it using the pterodactyl panel api.
+
+No support will be provided on setting this up but its here if you want it. Pterodactyl needs to integrate crash dedection and stop saying they wont add game specific features like its a gameserver panel...
